@@ -1,12 +1,12 @@
 # hand-gesture-recognition
 
-Here I have demonstrated a hand gesture recognition system using color segementation and image filtering techniques. After detection it print out the number of fingers being shown.
+Here I have demonstrated a hand gesture recognition system using color segementation and image filtering techniques. After detection it prints out the number of fingers being shown.
 
 # Dependencies 
 
 I have used the following dependencies.
 
-   * openCV
+   * opencv
    * numpy
    * math
 
