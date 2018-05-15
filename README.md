@@ -1,6 +1,6 @@
 # hand-gesture-recognition
 
-Here I have demonstrated a hand gesture recognition system using color segementation and image filtering techniques. After detection it prints out the number of fingers being shown.
+Here I have demonstrated a hand gesture recognition system using skin color segementation and image filtering techniques. After detection it prints out the number of fingers being shown.
 
 # Dependencies 
 
@@ -13,7 +13,7 @@ I have used the following dependencies.
    
 # Results
 
-Below are the results which show the number of fingers that are being detected. On the right side, the mask is also displayed.
+Below are the results which show the number of fingers that are being detected. On the right side, the mask is also displayed. Will appropriate filtering of the upper and lower thresholds depending on the surroundings, the system can be improved which will consist of less noise.
 <br />
 
 
