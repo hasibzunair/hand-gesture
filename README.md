@@ -13,7 +13,8 @@ I have used the following dependencies.
    
 # Results
 
-Below is the result for the processes that occurs in the back end of the script for detection. A mask is created and then it is being further processed to reduce noise. The output is shown in the screen. <br />
+Below are the results which show the number of fingers that are being detected. On the right side, the mask is also displayed.
+<br />
 
 
 ![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/0.PNG) 
