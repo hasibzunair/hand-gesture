@@ -8,6 +8,7 @@ I have used the following dependencies.
 
    * openCV
    * numpy
+   * math
 
    
 # Results
