@@ -16,11 +16,11 @@ I have used the following dependencies.
 Below is the result for the processes that occurs in the back end of the script for detection. A mask is created and then it is being further processed to reduce noise. The output is shown in the screen. <br />
 
 
-![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/0.PNG)<br />
-![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/1.PNG)<br />
-![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/2.PNG)<br />
-![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/3.PNG)<br />
-![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/4.PNG)<br />
+![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/0.PNG) <br />
+![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/1.PNG) <br />
+![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/2.PNG) <br />
+![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/3.PNG) <br />
+![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/4.PNG) <br />
 ![alt-text-2](https://github.com/hasibzunair/hand-gesture-recognition/blob/master/5.PNG)
 
 <br />
