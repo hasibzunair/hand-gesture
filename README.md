@@ -26,5 +26,5 @@ Below are the results which show the number of fingers that are being detected. 
 
 <br />
 
-# Credits 
-
+# Author
+Hasib Zunair
